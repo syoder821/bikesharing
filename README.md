@@ -1,4 +1,4 @@
-# NYC Citibike Analysis
+# NYC Citibike Analysis Overview
 This analysis prepares visualizations of the highly-successful NYC bike-sharing program to support a business proposal targeting potential investors for a similar bike-sharing program in Des Moines. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 For this analysis the following set of visualizations are created:
 
@@ -8,12 +8,12 @@ For this analysis the following set of visualizations are created:
 
 These visualizations along with previously generated ones are used to support the creation of a final presentation and analysis to pitch to investors.
 
-## Resources
+# Resources
 - Data Sources: 201908-citibike-tripdata.csv, citibike_tripdata.csv (converted "tripduration" column to datetime format)
 - Software: Python, Jupyter Notebook, Tableau
 
 
-## RESULTS:
+# Results:
 Visualizations for business proposal created in Tableau:  [Link to Tableau Story](https://public.tableau.com/app/profile/scott.yoder8657/viz/NYC_CitiBike_Challenge_16383067025460/NYC_CitiBike_Analysis?publish=yes)
 
 ## Convert "tripduration" column 
@@ -51,7 +51,7 @@ User Trips by Gender by Weekday heatmap shows the following: male subscribers gr
 
 ![Alt Text](https://github.com/syoder821/bikesharing/blob/main/Resources/Images/Story5.png)
 
-## Summary
+# Summary
 The results of this analysis give insight into the NYC Citibike bike-sharing program and can be used for the investor proposal for starting a similar program in Des Moines.  The analysis shows that vast majority of riders are male and the vast majority of rides are less than 20 minutes in duration with the largest number of rides in the 5 to 6 minute range.  The weekday usage is concentrated around the morning and evening commute times while the week end usage is spread more evenly throughout the day. It is also noted that the most active starting locations are also the most active ending locations.  
 Additional visualizations to produce would be:
 1. Compare weekend trip duration to weekday trip duration
